@@ -10,7 +10,7 @@ In the first terminal execute : npm run server
 
 In the project directory, you can run:
 
-### `npm start` (Lauch the Backend in second terminal)
+### `npm start` (Lauch the Frontend in second terminal)
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
